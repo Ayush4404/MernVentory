@@ -155,6 +155,5 @@ MIT License. Feel free to use, modify, and share!
 
 Need help or want to contribute?
 
-* Email: [your-email@example.com](mailto:ayushrawat4404@gmail.com)
-
+* Email:ayushrawat4404@gmail.com
 
